@@ -58,7 +58,7 @@ En caso de que ya se encuentre un proceso daemon corriendo, no se correra uno ad
 - Lote_17
 - Lote_18
 - Lote_19
-_ Lote_20
+- Lote_20
 
 # Listado de archivos de prueba del grupo
 RECHAZADOS POR TENER UN MAL NOMBRE
