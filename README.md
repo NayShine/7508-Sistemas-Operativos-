@@ -45,35 +45,26 @@ En caso de que ya se encuentre un proceso daemon corriendo, no se correra uno ad
 
 
 # Estructuras
-- maestros/Operadores.txt
-- maestros/Sucursales.txt
+
 - Grupo02/conf/config.txt
 
 # Listado de archivos de prueba dados por la cátedra
-- entregas_03.txt
-- entregas_04.txt
-- entregas_05.txt
-- entregas_06.txt
-- entregas_07.txt
+- Lote_11
+- Lote_12
+- Lote_13
+- Lote_14
+- Lote_15
+- Lote_16
+- Lote_17
+- Lote_18
+- Lote_19
+_ Lote_20
 
 # Listado de archivos de prueba del grupo
 RECHAZADOS POR TENER UN MAL NOMBRE
-- Entergas_01.txt
-- Entregas 01.txt
-- Entregas_001.txt
-- Entregas_13.txt
-- Entregas_12.txt
-- Entregas_00.txt
-- Entregas-01.txt
+
 
 RECHAZADOS POR ESTAR VACIO
-- Entregas_02.txt
 
-RECHAZADO POR SER UN PDF
-- Entregas_02.pdf
 
-RECHAZADO POR TRAILER INCORRECTO
-- Entregas_07.txt No posee trailer
-- Entregas_08.txt Incorrecta cantidad de registros.
-- Entregas_09.txt No posee trailer Incorrecta sumatoria de codigo postal
 
