@@ -62,9 +62,18 @@ En caso de que ya se encuentre un proceso daemon corriendo, no se correra uno ad
 
 # Listado de archivos de prueba del grupo
 RECHAZADOS POR TENER UN MAL NOMBRE
-
+- Llote_30
+- 
 
 RECHAZADOS POR ESTAR VACIO
+- Lote_31
+
+OTROS ARCHIVOS
+- Lote_01.txt
+- Lote_31.txt
+- Lote_32.txt
+- Lote_33.txt
+- Lote_34.txt
 
 
 
