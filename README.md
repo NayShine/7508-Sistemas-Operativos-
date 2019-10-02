@@ -41,7 +41,7 @@ si sea ha detenido el proceso o si no se puede detener porque no existe dicho pr
 - Para volver a iniciar el proceso daemon, ubicado en el directorio binarios, ingrese el comando ./START.SH el cual volverá a poner en 
 funcionamiento el proceso daemon, siempre y cuando estén dadas las condiciones. 
 En caso de que ya se encuentre un proceso daemon corriendo, no se correra uno adicional y se informará de la situación.
-- Para procesar archivos debe colocar los archivos de entregas dentro del directorio novedades.
+- Para procesar archivos debe colocar los archivos de lotes dentro del directorio novedades.
 
 
 # Estructuras
